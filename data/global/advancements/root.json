@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/block/gray_concrete.png",
+    "description": "",
+    "icon": {
+      "item": "minecraft:knowledge_book"
+    },
+    "show_toast": false,
+    "title": "Installed Datapacks"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": "",
+    "icon": {
+      "item": ""
+    },
+    "show_toast": false,
+    "title": ""
+  },
+  "parent": "global:zerotask"
+}

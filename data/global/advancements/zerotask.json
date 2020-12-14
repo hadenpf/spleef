@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": [
+      {
+        "text": "Creator of vanilla-friendly datapacks.\n"
+      }
+    ],
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner: \"SirWindfield\"}"
+    },
+    "show_toast": false,
+    "title": "SirWindfield"
+  },
+  "parent": "global:root"
+}
