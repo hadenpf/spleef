@@ -1,0 +1,2 @@
+scoreboard objectives remove spleef_data
+scoreboard objectives remove spleef_players

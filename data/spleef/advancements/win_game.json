@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:entity_killed_player"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": [
+      {
+        "text": "Win a game of Spleef!"
+      }
+    ],
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner: \"Notch\"}"
+    },
+    "show_toast": false,
+    "title": "Sweet Victory"
+  },
+  "parent": "spleef:root"
+}

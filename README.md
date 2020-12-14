@@ -1,8 +1,6 @@
-> __NOTE:__ If you happen to use this template, make sure to replace the Kofi username inside the `.github/FUNDING.yml` file :)
+# Spleef
 
-# Projectname
-
-> A Minecraft 1.16.x data pack that
+**Spleef for Minecraft 1.16.x.**
 
 ## Installation
 
