@@ -19,7 +19,3 @@ scoreboard players operation RemainingFloors spleef_data = TotalTime spleef_data
 scoreboard players operation RemainingFloors spleef_data %= TotalFloors spleef_data
 
 execute unless score Remaining spleef_data matches ..0 run schedule function spleef:do_timer 1.1s
-
-
-
-# execute innocent people 
